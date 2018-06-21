@@ -28,4 +28,9 @@ Parameters of the grid world can be varied. Following are the parameters of grid
  - mdptoolbox/ -- supporting files for mdp.py from MDP Toolbox
  - sagarwal311-analysis.pdf -- Analysis paper	
 
-![Alt Text](https://github.com/siddharth691/Path-Planning-using-Markov-Decision-Process/raw/master/path_video.gif)
+# Here is a visualization of the path from starting point to ending point with some random obstacles
+<p align="center">
+  <img src="https://github.com/siddharth691/Path-Planning-using-Markov-Decision-Process/raw/master/path_video.gif">
+</p>
+
+
